@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125115716270",
+    "project_id": "prello-ec14a",
+    "storage_bucket": "prello-ec14a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125115716270:android:f8c190cb37dd558f01933f",
+        "android_client_info": {
+          "package_name": "com.example.prello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125115716270-kt4n3ahd5v6smbd76ibitubpr752feqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiKXqShmKlXNgMgJmL4vrBXF8Ir1mnGzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125115716270-kt4n3ahd5v6smbd76ibitubpr752feqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
